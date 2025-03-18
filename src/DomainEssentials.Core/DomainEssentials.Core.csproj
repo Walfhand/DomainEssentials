@@ -4,6 +4,12 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <Title>DomainEssentials.Core</Title>
+        <PackageId>DomainEssentials.Core</PackageId>
+        <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+        <Authors>Sébastien Vandaele</Authors>
+        <PackageProjectUrl>https://github.com/Walfhand/DomainEssentials</PackageProjectUrl>
+        <Version>1.0.0</Version>
     </PropertyGroup>
 
 </Project>
