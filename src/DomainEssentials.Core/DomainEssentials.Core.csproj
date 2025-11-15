@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <Title>DomainEssentials.Core</Title>
@@ -10,6 +9,7 @@
         <Authors>Sébastien Vandaele</Authors>
         <PackageProjectUrl>https://github.com/Walfhand/DomainEssentials</PackageProjectUrl>
         <Version>1.0.0</Version>
+        <TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
     </PropertyGroup>
 
 </Project>
